@@ -4,16 +4,14 @@ A romantic mini-game for couples: six silver scratch cards, three scratches, and
 
 🔗 Live page: https://dwieser1991-cloud.github.io/Rubellos
 
-After deploying with GitHub Pages, replace the link above with your own: https://YOUR-USERNAME.github.io/REPO-NAME/
-
-✨ Features
-🎟️ Six scratch cards, drawn randomly from a pool of prizes
-✋ Only 3 scratches allowed, the other cards get locked
-💋 One card is always the sweet consolation prize
-💖 Floating hearts, confetti effect, light & dark mode
-📱 Works with finger (mobile) and mouse (desktop)
-✉️ Send the won prizes via Gmail, WhatsApp or copy them to the clipboard
-📁 Project structure
+Features:
+- Six scratch cards, drawn randomly from a pool of prizes
+- Only 3 scratches allowed, the other cards get locked
+- One card is always the sweet consolation prize
+- Floating hearts, confetti effect, light & dark mode
+- Works with finger (mobile) and mouse (desktop)
+- Send the won prizes via Gmail, WhatsApp or copy them to the clipboard
+- Project structure
 ├── index.html   # page structure
 ├── main.css     # styling (romantic theme, light & dark mode)
 └── script.js    # scratch logic, prize pool, sending
